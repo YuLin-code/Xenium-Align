@@ -1,0 +1,14 @@
+torch==1.13.0
+geovoronoi==0.4.0
+cellpose==0.6.2
+squidpy==1.4.1
+spatialdata-io==0.1.4
+networkx==3.2.1
+numpy==1.26.4
+pandas==2.2.2
+opencv-python==4.10.0.84
+scipy==1.13.1
+matplotlib==3.7.2
+stardist==0.9.1
+csbdeep==0.8.1
+tensorflow==2.15.0
