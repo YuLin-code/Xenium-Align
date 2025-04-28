@@ -1,0 +1,43 @@
+{
+    "major_version": 2,
+    "minor_version": 0,
+    "patch_version": 1,
+    "run_name": "Human Non-diseased Kidney (FFPE)",
+    "run_start_time": "2023-06-01T19:00:00Z",
+    "region_name": "hKidney_nondiseased_section",
+    "preservation_method": "FFPE",
+    "num_cells": 97560,
+    "transcripts_per_cell": 54,
+    "transcripts_per_100um": 38.25217254397872,
+    "cassette_name": "N/A",
+    "slide_id": "N/A",
+    "panel_design_id": "hMultiCancer",
+    "panel_name": "Human Multi-Tissue and Cancer Gene Expression",
+    "panel_organism": "Human",
+    "panel_tissue_type": "Multi",
+    "panel_num_targets_predesigned": 377,
+    "panel_num_targets_custom": 0,
+    "pixel_size": 0.2125,
+    "instrument_sn": "R&D",
+    "instrument_sw_version": "R&D",
+    "analysis_sw_version": "xenium-1.5.0.3",
+    "analysis_uuid": "117450fe-ddab-443f-a12a-ef86cb4c780f",
+    "experiment_uuid": "",
+    "cassette_uuid": "",
+    "roi_uuid": "",
+    "z_step_size": 3.0,
+    "well_uuid": "",
+    "calibration_uuid": "58935a5e-17c1-4ce1-8a5f-9a93fb510a38",
+    "images": {
+        "morphology_filepath": "morphology.ome.tif",
+        "morphology_mip_filepath": "morphology_mip.ome.tif",
+        "morphology_focus_filepath": "morphology_focus.ome.tif"
+    },
+    "xenium_explorer_files": {
+        "transcripts_zarr_filepath": "transcripts.zarr.zip",
+        "cells_zarr_filepath": "cells.zarr.zip",
+        "cell_features_zarr_filepath": "cell_feature_matrix.zarr.zip",
+        "analysis_zarr_filepath": "analysis.zarr.zip",
+        "analysis_summary_filepath": "analysis_summary.html"
+    }
+}
